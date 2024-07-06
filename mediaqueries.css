@@ -105,4 +105,7 @@
   .mail{
     font-size: 10px;
   }
+  .contact-info-container{
+    width: 200px;
+  }
 }
